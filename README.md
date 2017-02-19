@@ -1,7 +1,5 @@
 ###### test
-test
-=
-fu
--
-#test
-##test
+void main()
+{
+printf("Hello, Markdown.");
+}
