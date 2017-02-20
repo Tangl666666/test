@@ -3,5 +3,6 @@
     {
           printf("Hello, Markdown.");
     }
-*mark
-_down
+*mark*
+_down_
+markdown
