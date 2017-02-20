@@ -1,3 +1,3 @@
 ###### test   
 ---
-[唐亮](shinytang6.github.io "Markdown")
+[唐亮](shinytang6.github.io)
