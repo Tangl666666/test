@@ -1,8 +1,5 @@
 ###### test  
-
-
-
-    void main()
+      void main()
     {
           printf("Hello, Markdown.");
     }
