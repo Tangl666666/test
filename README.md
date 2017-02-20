@@ -3,8 +3,4 @@
     {
           printf("Hello, Markdown.");
     }
-**mark**      
-_down_     
-dowm
-_______      
-'ctrl+a'
+-1-2
