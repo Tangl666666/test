@@ -4,5 +4,4 @@
           printf("Hello, Markdown.");
     }
 *mark*
-_down_
-markdown
+_down_markdown
