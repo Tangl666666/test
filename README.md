@@ -1,7 +1,2 @@
-###### test  
-      void main()
-    {
-          printf("Hello, Markdown.");
-    }
-
+###### test   
 -（+.)1  -（+.)2
