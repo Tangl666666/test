@@ -5,5 +5,6 @@
     }
 **mark**      
 _down_     
-dowm_______
+dowm
+_______      
 'ctrl+a'
