@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/_mocha --timeout 10000 ./spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinytang6/test.git"
+  },
+  "author": "tangl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinytang6/test/issues"
+  },
+  "homepage": "https://github.com/shinytang6/test#readme",
+  "dependencies": {
+    "expect": "^22.2.2",
+    "mocha": "^5.0.0"
+  }
+}
