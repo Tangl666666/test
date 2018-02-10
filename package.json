@@ -4,7 +4,8 @@
   "description": "",
   "main": "test.js",
   "scripts": {
-    "test": "node ./node_modules/mocha/bin/_mocha --timeout 10000 ./spec.js"
+    "test": "node ./node_modules/mocha/bin/_mocha --timeout 10000 ./spec.js",
+    "cover": "istanbul cover --report lcov node_modules/mocha/bin/_mocha -- -R spec spec.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,9 @@
   },
   "homepage": "https://github.com/shinytang6/test#readme",
   "dependencies": {
+    "coveralls": "^3.0.0",
     "expect": "^22.2.2",
+    "istanbul": "^0.4.5",
     "mocha": "^5.0.0"
   }
 }
