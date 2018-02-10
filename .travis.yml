@@ -5,4 +5,5 @@ node_js:
 git:
   submodules: false
 script: 
-    npm test
+   - npm test
+   - npm run cover
