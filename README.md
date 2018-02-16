@@ -3,7 +3,7 @@
 [younghz的Markdown库](https:://github.com/younghz/Markdown "Markdown")    
 
 
-~~删除~~
+
 * alt表示图片显示失败时的替换文本
 * title表示鼠标悬停在图片时的显示文本（注意这里要加引号）
 
