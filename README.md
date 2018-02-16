@@ -11,7 +11,6 @@ you
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 
-[我的博客](https://shinytang6.github.io/)
 
 
 * 1
